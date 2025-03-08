@@ -30,4 +30,5 @@ jobs:
         with:
           branch: development
           folder: .  # Deploy the root directory
+          target: development
 
